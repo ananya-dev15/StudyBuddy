@@ -160,6 +160,28 @@ export default function Contact() {
           </p>
         </div>
 
+        <div className="member-card">
+          <h2>Yash Jain</h2>
+          <p className="info"><i className="fas fa-phone-alt"></i> +91 9058202869</p>
+          <p className="info">
+            <i className="fab fa-linkedin"></i>
+            <a
+              href="https://www.linkedin.com/in/yash-jain-690a57292/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              linkedin.com/in/yash
+            </a>
+          </p>
+          <p className="info">
+            <i className="fas fa-envelope"></i>
+            <a href="mailto:yashjain200524@gmail.com">
+              yashjain200524@gmail.com
+            </a>
+          </p>
+        </div>
+
+
       </div>
     </div>
   );
